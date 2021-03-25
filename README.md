@@ -1,1 +1,2 @@
 # go-file-checker
+test
